@@ -9,7 +9,7 @@ This challenge was inspired by Scott Young’s [“MIT Challenge”](https://www
 
 The objective of this challenge isn’t merely to complete the 4-year curriculum, but to educate myself about computer science (algorithm, hardware, software, etc.) for fun!
 
-I’ll kick things off by taking the necessary prerequisites taken by freshmen and sophomore MIT computer science students, like Biology, Chemistry, Physics, and Calculus, using [MIT’s OpenCourseWare](https://ocw.mit.edu/) platform. Some courses, like Introduction to Low-level Programming in C and Assembly, aren’t available in the free courseware. But instead of looking for alternatives, I’ll do my best to complete the ones that are available on the platform.
+I’ll kick things off by taking the necessary prerequisites taken by freshmen and sophomore MIT computer science students, like Biology, Chemistry, Physics, and Calculus, using [MIT’s OpenCourseWare](https://ocw.mit.edu/) platform. Some courses, like *Introduction to Low-level Programming in C and Assembly*, aren’t available in the free courseware. But instead of looking for alternatives, I’ll do my best to complete the ones that are available on the platform.
 
 A bit about me: My background is in nursing, and I have no degree in computer science, engineering, or math. I’ve been learning programming on my own for the past 9 months, and the last time I took calculus was more than a decade ago, back in high school. I didn’t particularly do well in it and so I don’t remember it anymore. 😅 But hey, what’s a challenge without some struggles and failures, right? That’s what makes this exciting! 
 
