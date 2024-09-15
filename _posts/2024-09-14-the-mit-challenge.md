@@ -9,8 +9,6 @@ tags:
 - mit-challenge
 date: 2024-09-14 21:58 -0400
 ---
-# The MIT Challenge Lite 
-
 This challenge was inspired by Scott Young’s [“MIT Challenge”](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/) where he taught himself computer science using [MIT’s 4-year undergraduate curriculum](https://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/) in just one year. 
 
 The objective of this challenge isn’t merely to complete the 4-year curriculum, but to educate myself about computer science (algorithm, hardware, software, etc.) for fun!
