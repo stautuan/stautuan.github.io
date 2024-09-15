@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The MIT Challenge
+categories: Computer Science, Education
+tags: computer science, mit challenge
 date: 2024-09-14 21:58 -0400
 ---
 # The MIT Challenge Lite 
