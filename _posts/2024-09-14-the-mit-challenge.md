@@ -20,15 +20,13 @@ A bit about me: My background is in nursing, and I have no degree in computer sc
 I’ll be tracking and updating the list to hold myself accountable. So, without further ado, I present you my MIT Computer Science Curriculum [at home version]! ✨💪
 
 **Phase I**
-- [ ] Pre-7.01 [Getting up to Speed in Biology](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about) (refresher course)
 - [ ] 6.100L [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/syllabus/)
 - [ ] 18.01 [Single Variable Calculus](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/pages/syllabus/)
-- [ ] 7.012 [Introduction to Biology](https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/pages/syllabus/)
+- [ ] 8.01 [Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)
 
 **Phase II**
 - [ ] 6.042J [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
 - [ ] 5.111 [Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/pages/syllabus/)
-- [ ] 8.01 [Physics I: Classical Mechanics](https://ocw.mit.edu/courses/8-01sc-classical-mechanics-fall-2016/pages/syllabus/)
 
 **Phase III**
 - [ ] 6.005 [Software Construction](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/pages/syllabus/)
